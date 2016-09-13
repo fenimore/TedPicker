@@ -19,7 +19,7 @@
     </string-array>
 
 
-    <string name="toolbar_title">Choice Image</string>
+    <string name="toolbar_title">Choose Image</string>
     <string name="no_image">No Image</string>
 
     <string name="selected_image">Selected Image</string>
